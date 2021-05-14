@@ -8,3 +8,5 @@ int main()
 	system("PAUSE");
 	return 0;
 }
+int a;
+int b;
